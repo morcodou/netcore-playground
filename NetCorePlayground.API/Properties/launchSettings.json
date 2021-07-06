@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "NetCore_Playground.API": {
+    "NetCorePlayground.API": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

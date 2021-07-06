@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore-Playground.API", "NetCore-Playground.API\NetCore-Playground.API.csproj", "{2C0AA5E4-D8C2-483F-BD70-C4BD144DD6DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePlayground.API", "NetCorePlayground.API\NetCorePlayground.API.csproj", "{2C0AA5E4-D8C2-483F-BD70-C4BD144DD6DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore-Playground.Tests", "NetCore-Playground.Tests\NetCore-Playground.Tests.csproj", "{F4293E45-975A-415E-883A-EEB2C02C50CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePlayground.Tests", "NetCorePlayground.Tests\NetCorePlayground.Tests.csproj", "{F4293E45-975A-415E-883A-EEB2C02C50CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

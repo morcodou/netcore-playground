@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>NetCore_Playground.API</RootNamespace>
+    <RootNamespace>NetCorePlayground.API</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

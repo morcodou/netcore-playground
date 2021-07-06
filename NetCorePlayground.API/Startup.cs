@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace NetCore_Playground.API
+namespace NetCorePlayground.API
 {
     public class Startup
     {
@@ -30,7 +30,7 @@ namespace NetCore_Playground.API
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "NetCore_Playground.API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "NetCorePlayground.API", Version = "v1" });
             });
         }
 
@@ -41,7 +41,7 @@ namespace NetCore_Playground.API
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "NetCore_Playground.API v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "NetCorePlayground.API v1"));
             }
 
             app.UseHttpsRedirection();

@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace NetCore_Playground.Tests
+namespace NetCorePlayground.Tests
 {
     [TestClass]
     public class UnitTest1

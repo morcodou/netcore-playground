@@ -1,6 +1,6 @@
 using System;
 
-namespace NetCore_Playground.API
+namespace NetCorePlayground.API
 {
     public class WeatherForecast
     {
